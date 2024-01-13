@@ -44,7 +44,7 @@ MODEL_DIR = ROOT / 'weights'
 DETECTION_MODEL = MODEL_DIR / 'best.pt'
 CLASSIFICATION_MODEL = MODEL_DIR / 'xray_classification_model.h5'
 
-# In case of your custome model comment out the line above and
+# In case of your custom model comment out the line above and
 # Place your custom model pt file name at the line below 
 # DETECTION_MODEL = MODEL_DIR / 'my_detection_model.pt'
 
